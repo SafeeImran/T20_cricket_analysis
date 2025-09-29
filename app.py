@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import seaborn as sns
 import matplotlib.pyplot as plt
 import plotly.express as px
 st.set_page_config(page_title="Asia Cup Cricket Analytics", layout="wide")
@@ -165,3 +164,4 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+
