@@ -159,9 +159,10 @@ st.markdown(
     """
     <div style="text-align: center;">
         <p>👨‍💻 Developed by <b>Safee Imran</b></p>
-        <p>🔗 <a href="https://github.com/SafeeImran" target="_blank">GitHub Profile</a></p>
+        <p>🔗 <a href="https://github.com/SafeeImran/T20_cricket_analysis" target="_blank">GitHub Profile</a></p>
     </div>
     """,
     unsafe_allow_html=True
 )
+
 
